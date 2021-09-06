@@ -4,6 +4,8 @@ A single perceptron with adjustable  training and testing rounds which gives nea
 
 
 ### Instructions: 
-Change the range (min, max) and number testing/training rounds and see, both visually and statistically, the changing success rate! 
-Also, the perceptron currently considers points s.t y>x as +1, feel free to change that to any other conditional (in the Point constructor) and test what happens!
-Enjoy 🤗 
+Feel free to play: 
+- The range of points (min, max)
+- Number testing/training rounds
+- The "label formula" currently considers points s.t y>x as +1 (in Point Constructor)
+**Enjoy** 🤗 
