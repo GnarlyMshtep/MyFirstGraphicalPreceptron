@@ -9,9 +9,9 @@ import numpy as np
 
 # constants
 NUM_TRAINING_POINTS = 100
-NUM_TESTING_POINTS = 10
+NUM_TESTING_POINTS = 100
 MAXNUM = 100
-MINNUM = 0
+MINNUM = -100
 
 NUM_TESTS = 10  # how many different preceptrons will we train and test?
 

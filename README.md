@@ -9,3 +9,6 @@ Feel free to play:
 - Number testing/training rounds
 - The "label formula" currently considers points s.t y>x as +1 (in Point Constructor)
 **Enjoy** 🤗 
+
+###### Note: 
+Unfortuntly I had more features (set your own equation,bias, etc), but they all were mysteriously deleted 😥

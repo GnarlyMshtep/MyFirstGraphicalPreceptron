@@ -1,6 +1,6 @@
 
 class Point:
-    def __init__(self, xy: list):
+    def __init__(self, xy: list, ):
         self.coords = xy
         self.label = 1 if xy[0] > xy[1] else -1
 
